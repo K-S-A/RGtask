@@ -1,0 +1,35 @@
+[33mcommit afae42ee323f1b6a60aa9f1eaa13018806a7b685[m
+Author: K-S-A <atillas@ukr.net>
+Date:   Mon Mar 30 04:04:09 2015 +0300
+
+    Few link modifications - project_list_path to root_path
+
+[33mcommit ad0fc7f44dd2da423165f3d1053c626bcac13597[m
+Author: K-S-A <atillas@ukr.net>
+Date:   Mon Mar 30 03:44:13 2015 +0300
+
+    Styling Added
+
+[33mcommit 4a47ff09731513e6765804f0b21d28a7a516d86b[m
+Author: K-S-A <atillas@ukr.net>
+Date:   Mon Mar 30 02:42:55 2015 +0300
+
+    Completed Mark ability Added
+
+[33mcommit ae9b48b734efb384d110673cf2dde6fd080bcf9a[m
+Author: K-S-A <atillas@ukr.net>
+Date:   Mon Mar 30 01:56:49 2015 +0300
+
+    Completion Mark Added
+
+[33mcommit 02808b8f702d7619f6e3b03c77d587f069897b93[m
+Author: K-S-A <atillas@ukr.net>
+Date:   Sun Mar 29 20:44:27 2015 +0300
+
+    Added Project List & Todo Items
+
+[33mcommit edd230ad37eb28242d9f1b67dfeab2ce9c8a6fa2[m
+Author: K-S-A <atillas@ukr.net>
+Date:   Sun Mar 29 19:33:37 2015 +0300
+
+    Initial commit
